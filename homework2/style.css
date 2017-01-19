@@ -1,0 +1,64 @@
+
+
+  
+* {
+
+  box-sizing: border-box; 
+}
+
+
+  body{
+    color:#f0efef;
+    font-size: 13px;
+    line-height: 1.4;
+    color:#606161;
+    font-family: 'Open Sans';
+    font-weight:300;
+  }
+
+
+  
+  
+    .logo{
+    font-size: 24px; 
+    font-weight:800;
+
+  }
+
+    section.primary{
+    height:500px;
+    width:600px;
+    background-color: green;
+
+  }
+
+    section.secondary{
+    height:500px;
+    width:600px;
+    background-color: #f0efef;
+  }
+
+    p {
+      font-family: sans-serif;
+      font-size: 25px;
+    }
+
+    h2{
+      font-family: sans-serif;
+      font-size:30px;
+      font-color: purple;
+      text-align: center;
+      top:50%;
+    }
+
+
+    footer{
+    height:300px;
+    width:600px;
+    background-color:blue;
+    color:white;
+  }
+
+
+
+
